@@ -1,6 +1,6 @@
 # Network Programming:
 
-This course covers all aspects of TCP/IP and network socket programming. Starting with a review of IP and TCP, including its services and IPv6, we have then learned about socket programming and time permitting, we have been explored new trends in networking and programming.
+This course covers all aspects of TCP/IP and network socket programming. Starting with a review of IP and TCP, including its services and IPv6, we have then learned about socket programming and time permitting, explored new trends in networking and programming.
 
 ## Homework 1 - A Time Server:
 
